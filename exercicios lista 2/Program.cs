@@ -8,6 +8,7 @@ namespace exercicios_lista_2
     {
         static void Main(string[] args)
         {
+            //git
             List<Funcionario> list = new List<Funcionario>();
 
             Console.WriteLine("How many employees will be registered?");
